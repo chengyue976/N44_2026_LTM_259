@@ -1,0 +1,3 @@
+LIBRARY LSP_Filter
+EXPORTS
+    WSPStartup
